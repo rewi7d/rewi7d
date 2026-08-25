@@ -6,6 +6,8 @@ I'm a software development enthusiast interested in old technology, Android, rev
 
 I'm especially into older phones, laptops, and other thingies and shits like that ;P
 
+!! MAJORITY OF MY PROJECTS ARE ON https://github.com/openlyano !!
+
 what am i working on?
 
 # ⊹₊ ˚‧︵‿₊୨ Lyano Market ୧₊‿︵‧ ˚ ₊⊹

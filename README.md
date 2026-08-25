@@ -19,10 +19,11 @@ The goal is to build a somewhat modern ecosystem, (for now Market only), soon po
 
 I'm currently working on:
 
-The NEW Lyano Market platform itself (v6 rewrite)
-Android Studio clients written in Java
-A universal client capable of connecting to multiple Lyano Market instances, with additional compatibility with other unrelated/alternative stores such as OldMarket instances and OddMarket, etc.
-Eventually making at least part of the project open source
+- The NEW Lyano Market platform itself (v6 rewrite)
+- Android Studio clients written in Java
+- A universal client capable of connecting to multiple Lyano Market instances, with additional compatibility with other unrelated
+- alternative stores such as OldMarket instances and OddMarket, etc.
+- Eventually making at least part of the project open source
 
 
 It's a project I have been working on for quite a while, since around 2024 to be exact.. with huge breaks among developing the project itself lolz.
@@ -40,16 +41,16 @@ although i kind of hate trying to reverse eng some weird ass protocols, etc, whi
 
 My strongest areas are currently:
 
-HTML / CSS - Very comfy
-PHP - enough to build fairly advanced apps, including APIs and frontends.
-Go - comfy enough for backend dev, still learning however. im dropping PHP for this.
-Java - comfy enough for Android app developement, specifically for older APIs in studio 2.3.2.
-JavaScript - barely know it, barely want to learn it.. but i can make simple scripts, HAVE to learn in the future.
+- HTML / CSS - Very comfy
+- PHP - enough to build fairly advanced apps, including APIs and frontends.
+- Go - comfy enough for backend dev, still learning however. im dropping PHP for this.
+- Java - comfy enough for Android app developement, specifically for older APIs in studio 2.3.2.
+- JavaScript - barely know it, barely want to learn it.. but i can make simple scripts, HAVE to learn in the future.
 
 In the future I also want to learn:
-C
-More JavaScript
-Maybe something else
+- C
+- More JavaScript
+- Maybe something else
 
 I'm trying, and gradually moving away from relying on PHP for everything, and focus on Go for backends, and Java. (or anything that fits the project i want to build, in most cases Android tho, so Java.)
 

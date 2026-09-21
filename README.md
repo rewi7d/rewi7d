@@ -16,10 +16,10 @@ My main project is Lyano Market, previously known as Android Market: Reborn.
 http://market.lyano.ovh/ http://market.lyano.ovh/download
 
 The goal is to build a somewhat modern ecosystem, (for now Market only), soon possibly more GAPPS (Google Apps) Revivals/Recreations to revive old android devices, and possibly more in the future. possibly also with user-made instances in the future.
+ the new rewrite, v6 released very recently, check it out!
 
 I'm currently working on:
 
-- The NEW Lyano Market platform itself (v6 rewrite)
 - Android Studio clients written in Java
 - A universal client capable of connecting to multiple Lyano Market instances, with additional compatibility with other unrelated
 - alternative stores such as OldMarket instances and OddMarket, etc.

@@ -1,6 +1,6 @@
 # ⊹₊ ˚‧︵‿₊୨ rewi7d! - who am i? ୧₊‿︵‧ ˚ ₊⊹
 
-Hellour! I'm Wiktoria, but you can call me Rewi.
+Hellour!
 
 I'm a software development enthusiast interested in old technology, Android, reverse engineering, backend development, and UI design. I like taking apart old software and figuring out how it works, while also building my own things from scratch.
 
